@@ -49,11 +49,11 @@ O objetivo desta simulação é capturar credenciais de usuários usando uma pá
 ## Teste Local
 1. Abra um navegador em sua máquina virtual e acesse o endereço IP que você anotou (por exemplo, `http://192.168.0.100`).
 2. Verifique se a página de login do Google está carregando corretamente e se os formulários estão funcionando.
-   - ![Página de Login Clonada](images/login.png)
+   - ![Página de Login Clonada](login.png)
 
 ## Resultados
 Nesta simulação, foram capturadas credenciais de teste inseridas na página de login clonada da Google.
-- ![Captura de Credenciais](images/retorno1ph)
+- ![Captura de Credenciais](retorno1ph.png)
 
 ## Aviso Legal
 **IMPORTANTE:** Esta simulação é realizada em um ambiente controlado para fins educacionais. O uso não autorizado é ilegal e antiético.
