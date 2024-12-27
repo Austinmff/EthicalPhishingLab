@@ -113,7 +113,7 @@ The objective of this simulation is to capture user credentials using a phishing
 
 ## Results
 In this simulation, test credentials entered on the cloned Google login page were captured.
-- ![Captured Credentials](retorno1ph)
+- ![Captured Credentials](retorno1ph.png)
 
 ## Legal Disclaimer
 **IMPORTANT:** This simulation is conducted in a controlled environment for educational purposes only. Unauthorized use is illegal and unethical.
