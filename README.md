@@ -49,6 +49,7 @@ O objetivo desta simulação é capturar credenciais de usuários usando uma pá
 ## Teste Local
 1. Abra um navegador em sua máquina virtual e acesse o endereço IP que você anotou (por exemplo, `http://192.168.0.100`).
 2. Verifique se a página de login do Google está carregando corretamente e se os formulários estão funcionando.
+   
    - ![Página de Login Clonada](login.png)
 
 ## Resultados
@@ -107,11 +108,12 @@ The objective of this simulation is to capture user credentials using a phishing
 ## Local Testing
 1. Open a browser on your virtual machine and access the IP address that you noted (e.g., `http://192.168.0.100`).
 2. Ensure the Google login page loads correctly and the forms are functional.
-   - ![Cloned Login Page](images/login.png)
+   
+   - ![Cloned Login Page](login.png)
 
 ## Results
 In this simulation, test credentials entered on the cloned Google login page were captured.
-- ![Captured Credentials](images/retorno1ph)
+- ![Captured Credentials](retorno1ph)
 
 ## Legal Disclaimer
 **IMPORTANT:** This simulation is conducted in a controlled environment for educational purposes only. Unauthorized use is illegal and unethical.
